@@ -1,0 +1,57 @@
+Q1. What is Git?
+ans. Git is a popular distributed version control system which was created by Linus Torvalds and maintained by J. Hamano.
+	It is Generally used for-
+	1.  Tracking the code changes
+	2. Tracking of who made the changes and what were the changes(documentation): new version creation.
+	3. Coding in collaborative environment.
+	
+	
+
+Q2. What do you understand by the term 'Version control System'?
+ans. It is a system the tracks the records of changes to a file or a set of files over time, these new changes in the source file leads to the creation of 
+	new version of the source code that can be recalled when needed.
+	
+
+
+Q3. What is GitHub?
+ans. There are generally two types of Git software-
+	a) Git Server	b)Git clients
+	GitHub is a Git server in which the remote repository(repo) will be created and maintained in the cloud to maintain/store the source code of the projects.
+	
+	
+	
+Q4. Mention some popular Git hosting services.
+ans. Some popular Git hosting services are as follows:
+	a) GitHub
+	b) GitLab
+	c) Bitbucket
+	d) GitBucket
+	
+	
+	
+Q5. Different types of version control system.
+ans. There are three types of version control system:
+	1. Local Version Control System(LVCS).
+	2. Centralised Version Control System(CVCS).
+	3. Distributed Version Control System(DVCS).
+	
+	
+
+Q6. What benifits come with using Git?
+ans. The benefits of using Git are as follows: 
+	1. It doesnt create any system dependency for storing the source code as the code can be stored and maintained in Git Repository.
+	2. Helps in creating a collaborative coding environment: where developers(who have access to the repo) can commit and update each other code and integrate their project successfully.
+	3. provides detailed tracking and documentation of the source code as of : "who made the changes?","what changes were made?", etc.
+	4. provides access to previous source codes in form of versions which can be accessed according to client's demands.
+	5. easy to maintain the source code for projects.
+	
+	
+	
+Q7. What is Git Repository?
+ans. Git repository is a remote storage location in a different computer. It is used to store and maintain source code.Developers who have access to repo can commit and update 
+	on source code available in remote/main repository.
+	
+	
+
+Q8. How can you initialise a repository in Git?
+ans. $git init - is used to create workspace in developers system in three stages: a)Working area b)staging area c)local repo.
